@@ -1,7 +1,7 @@
 @echo off
 title PHIDS - Menu Principal
 chcp 65001 >nul
-cd /d "C:\Users\mathe\Desktop\new version phids"
+cd /d "replaced by your path"
 
 echo [91m██████╗ ██╗  ██╗██╗██████╗ ███████╗
 echo ██╔══██╗██║  ██║██║██╔══██╗██╔════╝
